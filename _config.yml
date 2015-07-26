@@ -1,7 +1,7 @@
 name: null
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -15,11 +15,17 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#ffffff'
+    - '#040509'
+    - '#00e3fe'
+    - '#fd0050'
+    - '#905334'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
+  lightness: 0.75
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose:
   - name: stars
-    item: null
+    item: bf39071d-a1f1-4841-94ab-bcb339a5af48
     url: null
