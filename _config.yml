@@ -1,7 +1,7 @@
-name: null
+name: dance
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -22,8 +22,8 @@ color:
     - '#fd0050'
     - '#905334'
   brandStrength: 0
-  lightness: 0.75
-  saturation: 0.125
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0.5
 purpose:
   - name: stars
