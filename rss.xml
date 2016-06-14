@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[dance]]></title>
         <description><![CDATA[dance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 15:54:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 14 Jun 2016 15:55:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dance/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://media.giphy.com/media/3o6gE4bzYwUOQMkFwY/giphy.gif">]]></description>
+            <link>https://thegrid.ai/dance/3746a8f8-02bc-4f5e-a2ff-ce43f84d21e6/index.html</link>
+            <guid isPermaLink="false">3746a8f8-02bc-4f5e-a2ff-ce43f84d21e6</guid>
+            <pubDate>Tue, 14 Jun 2016 15:54:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://media.giphy.com/media/a8AXSGtbEl1du/giphy.gif">]]></description>
-            <link>undefinedaaa1c529-8620-461d-bdc0-c7cd0e697a40/index.html</link>
+            <link>https://thegrid.ai/dance/aaa1c529-8620-461d-bdc0-c7cd0e697a40/index.html</link>
             <guid isPermaLink="false">aaa1c529-8620-461d-bdc0-c7cd0e697a40</guid>
             <pubDate>Tue, 14 Jun 2016 15:54:50 GMT</pubDate>
         </item>
